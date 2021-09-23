@@ -5,4 +5,4 @@ https://piyusheverhard.github.io/web-technology-assignments/assignment1/assignme
 ## Assignment 2
 https://piyusheverhard.github.io/web-technology-assignments/assignment2/assignment2.html
 ## Assignment 3 
-https://piyusheverhard.github.io/web-technology-assignments/assignment3/q1.html
+https://piyusheverhard.github.io/web-technology-assignments/assignment3/index.html
