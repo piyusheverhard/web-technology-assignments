@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>3: Descendant Selector</title>
+</head>
+<style>
+    *{
+        margin: 25px 50px;
+        padding: 10px;
+    }
+    article > h1{
+        font-size: 50px;
+            color:#E06C75;
+        text-align: center;
+    }
+    article  ol {
+        width: 60vw;
+        height: auto;
+        padding: 10px;
+        color:#282c34;
+        font-size: 25px;
+        font-weight: bold;
+        border-radius: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color:   #61AFEF;
+        box-shadow: 20px -20px 30px black;
+    }
+    article > ol > li{
+        background-color: #ABB2BF;
+        border-radius: 25px;
+    }
+</style>
+<body bgcolor= #282c34>
+    <article>
+        <h1>Descendant Selector</h1>
+        <ol>
+            <li>Piyush Kumar</li>
+            <li>NIT Patna</li>
+            <li>Computer Science and Engineering</li>
+            <li>Competitive Programming, Data Structures and Algorithms</li>
+        </ol>
+    </article>
+</body>
+</html>
