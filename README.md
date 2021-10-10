@@ -9,3 +9,5 @@ https://piyusheverhard.github.io/web-technology-assignments/assignment3/index.ht
 ## Assignment 4
 - Question-1  
 https://piyusheverhard.github.io/web-technology-assignments/assignment4/1-Boxmodel.html
+- Question-2  
+https://piyusheverhard.github.io/web-technology-assignments/assignment4/2-Flexbox.html
