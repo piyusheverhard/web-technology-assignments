@@ -18,3 +18,10 @@ https://piyusheverhard.github.io/web-technology-assignments/assignment3/q4.html
 https://piyusheverhard.github.io/web-technology-assignments/assignment4/1-Boxmodel.html
 - Question-2  
 https://piyusheverhard.github.io/web-technology-assignments/assignment4/2-Flexbox.html
+## Assignment 5 
+- Question-1  
+https://piyusheverhard.github.io/web-technology-assignments/assignment5/1-connecting_JS_with_HTML/index.html
+- Question-2  
+https://piyusheverhard.github.io/web-technology-assignments/assignment5/2-JS_Scope/index.html
+- Question-3  
+https://piyusheverhard.github.io/web-technology-assignments/assignment5/3-Undefined_and_Notdefined/index.html
