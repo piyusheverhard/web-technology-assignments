@@ -25,3 +25,6 @@ https://piyusheverhard.github.io/web-technology-assignments/assignment5/1-connec
 https://piyusheverhard.github.io/web-technology-assignments/assignment5/2-JS_Scope/index.html
 - Question-3  
 https://piyusheverhard.github.io/web-technology-assignments/assignment5/3-Undefined_and_Notdefined/index.html
+## Assignment 6 
+- Question-1  
+https://piyusheverhard.github.io/web-technology-assignments/assignment6/index.html
